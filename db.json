@@ -1,0 +1,22 @@
+{
+  "screenOneData": [
+    {
+      "tableName": "testing",
+      "UniqueColumn": "123",
+      "columnName": "testAbc",
+      "id": 1
+    },
+    {
+      "tableName": "testingss",
+      "UniqueColumn": "12321",
+      "columnName": "testAbcas",
+      "id": 2
+    },
+    {
+      "tableName": "asdcx",
+      "UniqueColumn": "qwer",
+      "columnName": "asdert",
+      "id": 3
+    }
+  ]
+}
